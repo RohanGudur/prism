@@ -1,0 +1,13 @@
+langchain==0.1.0
+PyPDF2==1.26.0
+pinecone-client==0.2.0
+openai==0.11.3
+python-dotenv==0.19.1
+tiktoken==0.1.1
+gradio==2.0.7
+faiss-cpu==1.7.1.post2
+pydantic==1.10.11
+sentence-transformers==2.1.0
+SpeechRecognition==3.8.1
+pyaudio==0.2.11
+pydub==0.25.1

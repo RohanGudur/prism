@@ -1,0 +1,16 @@
+google-auth==1.35.0
+google-auth-oauthlib==0.4.6
+google-auth-httplib2==0.1.0
+google-api-python-client==2.22.0
+gTTS==2.2.3
+langchain==0.1.0
+PyPDF2==1.26.0
+llama-index==0.1.0
+pinecone-client==0.3.3
+openai==0.11.2
+python-dotenv==0.19.0
+tiktoken==0.1.0
+gradio==2.3.4
+faiss-cpu==1.7.1.post2
+pydantic==1.10.11
+sentence-transformers==2.2.0
