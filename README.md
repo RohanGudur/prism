@@ -1,2 +1,2 @@
 # prism
-prism test
+Samsung PRISM hackathon submission
